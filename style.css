@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+a[href]{
+    color: aquamarine;
+    font-size: 16px; 
+    display: block;
+    text-align: center;   
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+h1.lazy{
+    font-weight: 300;
+    font-size: 42px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.copyright{
+    text-align: right;
+    color: white;
+}
